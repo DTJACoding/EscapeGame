@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":2,"parentId":7,"scrollX":440,"scrollY":360},
-{"id":2,"expanded":false,"name":"학교","order":15,"parentId":0,"scrollX":432.8888888888889,"scrollY":680.8888888888889},
+{"id":2,"expanded":false,"name":"학교","order":15,"parentId":0,"scrollX":726.2222222222222,"scrollY":687.1111111111111},
 {"id":3,"expanded":true,"name":"1층 복도","order":10,"parentId":0,"scrollX":440,"scrollY":352.8888888888889},
 {"id":4,"expanded":true,"name":"1층 방송실","order":11,"parentId":3,"scrollX":440,"scrollY":360},
 {"id":5,"expanded":false,"name":"1층 교장실","order":12,"parentId":3,"scrollX":440,"scrollY":360},
